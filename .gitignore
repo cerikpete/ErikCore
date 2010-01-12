@@ -1,5 +1,7 @@
 *.resharper.*
-_ReSharper.ErikCore
+_ReSharper.*
 *.suo
+*.cache
 bin
 obj
+*.csproj.user
