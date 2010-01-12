@@ -1,0 +1,5 @@
+*.resharper.*
+_ReSharper.ErikCore
+*.suo
+bin
+obj
